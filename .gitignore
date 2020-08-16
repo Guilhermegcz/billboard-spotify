@@ -1,0 +1,6 @@
+config.txt
+config_spot.py
+.ipynb_checkpoints
+config.py
+images/
+__pycache__/
