@@ -3,3 +3,4 @@ config_spot.py
 .ipynb_checkpoints
 config.py
 __pycache__/
+edicao/
