@@ -26,19 +26,19 @@ For a overview of data the data collected it was used Tablau as tool.
 https://public.tableau.com/profile/guilherme6477#!/vizhome/IRONHACK-PROJETO3/BILLBOARD-SPOTIFY?publish=yes
 
 - Cover:
-![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/board1.jpg)
+![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/dashboard1.jpg)
 
 - Artists word cloud:
-![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/board2.jpg)
+![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/dashboard2.jpg)
 
 - Artists who have appeared more often since 2006, number of features in the musics ranked in billboard, mean of song durations throught the years and danceability, acoustics, energy and speech
-![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/board3.jpg)
+![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/dashboard3.jpg)
 
 - Rank relations: 
-![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/board4.jpg)
+![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/dashboard4.jpg)
 
 - Summary graphy of an artist and his relationship with the billboard classification over the years:
-![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/board5.jpg)
+![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/dashboard5.jpg)
 
 ## issues
 Some songs and artists searched through the code were not found, leaving some data incomplete.
