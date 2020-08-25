@@ -1,5 +1,5 @@
 # billboard-spotify
-![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/gif-top-graph.gif)
+![alt text](https://github.com/Guilhermegcz/billboard-spotify/blob/master/images/gif-top-graph2.gif)
 
 ## Resume
 Project developed to scraping billboard top 100 and automate my playlists  
